@@ -14,6 +14,22 @@ Description: An awesome MobileSubstrate tweak!
 Author: Richard Gledhill
 Name: switchcolours
 
+Package: com.rich.switchcolours
+Version: 0.0.1-8+debug
+Architecture: iphoneos-arm
+Maintainer: Richard Gledhill
+Installed-Size: 728
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker
+Filename: ./debs/com.rich.switchcolours_0.0.1-8+debug_iphoneos-arm.deb
+Size: 398384
+MD5sum: 861d47a7ab29c687bfcf3320ef388af4
+SHA1: d005732f3c586751c8db82271750a0e968b24c1c
+SHA256: d0871714e56748e9db154ccf41231588c6d4c2160361c7951d60f3d29aa23a6f
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Richard Gledhill
+Name: switchcolours
+
 Package: com.rich.volcano
 Version: 0.0.1-5+debug
 Architecture: iphoneos-arm
